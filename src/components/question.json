@@ -1,0 +1,22 @@
+ [
+    {
+       "title":"what is my name?",
+        "options":["aryan","chetan", "vikram", "tanishka"],
+        "correctAnswerindex":"0"
+    },
+    {
+        "title":"what is my age?",
+        "options":["aryan","chetan", "vikram", "tanishka"],
+        "correctAnswerindex":"1"
+    },
+    {
+        "title":"what is my class?",
+        "options":["aryan","chetan", "vikram", "tanishka"],
+        "correctAnswerindex":"2"
+    },
+    {
+        "title":"what is my branch?",
+        "options":["aryan","chetan", "vikram", "tanishka"],
+        "correctAnswerindex":"3"
+    }
+]
